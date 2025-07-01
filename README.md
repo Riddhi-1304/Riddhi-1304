@@ -41,7 +41,7 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/riddhi-pandav/)
-- 📧 riddhipandav@example.com *(replace with your real email)*
+- 📧 riddhipandav@example.com *(replace with your real email)
 
 ---
 
