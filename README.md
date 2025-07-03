@@ -28,11 +28,29 @@
 
 ---
 
-## 💻 Projects I've Built:
+# 🌐 My Live Projects
 
-- **Portfolio Website** – Modern personal portfolio using React & Tailwind CSS  
-- **Todo App** – CRUD-based app with localStorage  
-- **Product Card UI** – Responsive component with HTML, CSS, JS  
+Welcome! Here are some of the websites I have built and deployed. Each one highlights different design and development skills.
+
+---
+
+## 🚀 Live Projects
+
+### 1. **BizCorp**
+🔗 [https://bizcorp.webbytouch.com/](https://bizcorp.webbytouch.com/)  
+A professional business website with modern layout and responsive design.
+
+---
+
+### 2. **Texttile**
+🔗 [https://texttile.webbytouch.com/](https://texttile.webbytouch.com/)  
+A clean and elegant textile business website with product showcase and contact section.
+
+---
+
+### 3. **Garden**
+🔗 [https://garden.webbytouch.com/](https://garden.webbytouch.com/)  
+A beautiful gardening and landscaping website with service highlights and gallery.
 
 *(More coming soon... Stay tuned!)*
 
